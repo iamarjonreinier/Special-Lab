@@ -20,6 +20,11 @@ body{
   background-size: 1520px;
 }
 .thirdbackground{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-family: Courier (sans-serif);
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 15);
   padding: 120px;
 }
 h1{
