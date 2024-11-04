@@ -257,7 +257,7 @@ input{
   position: relative;
   width: 220px;
   height: 320px;
-  background-image: url("PHOTOS/cartoon_hover.jpg");
+  background-image: url('PHOTOS/cartoon_hover.jpg');
   display: flex;
   align-items: center;
   justify-content: center;
@@ -303,14 +303,14 @@ input{
 }
 
 .card:hover:after {
-   background-image: url("ben10.jpg"); 
+   background-image: url('ben10.jpg'); 
   background-size: 100%;
 }
 .card1 {
   position: relative;
   width: 220px;
   height: 320px;
-  background-image: url("PHOTOS/cartoon_hover.jpg");
+  background-image: url('PHOTOS/cartoon_hover.jpg');
   display: flex;
   align-items: center;
   justify-content: center;
@@ -356,14 +356,14 @@ input{
 }
 
 .card1:hover:after {
-  background-image: url("PHOTOS/PhineasNFerbPoster.jpg"); 
+  background-image: url('PHOTOS/PhineasNFerbPoster.jpg'); 
   background-size: 100%;
 }
 .card2 {
   position: relative;
   width: 220px;
   height: 320px;
-  background-image: url("PHOTOS/hover_background.jpg");
+  background-image: url('PHOTOS/cartoon_hover.jpg');
   display: flex;
   align-items: center;
   justify-content: center;
@@ -409,7 +409,7 @@ input{
 }
 
 .card2:hover:after {
-    background-image: url("PHOTOS/SpongeBob_SquarePants.jpg"); 
+    background-image: url('PHOTOS/SpongeBob_SquarePants.jpg'); 
   background-size: 100%;
 
 }
@@ -417,7 +417,7 @@ input{
   position: relative;
   width: 220px;
   height: 320px;
- background-image: url("PHOTOS/cartoon_hover.jpg");
+ background-image: url('PHOTOS/cartoon_hover.jpg');
   display: flex;
   text-align: center;
   align-items: center;
@@ -465,7 +465,7 @@ input{
 }
 
 .card3:hover:after {
-  background-image: url("PHOTOS/tom&jerry.jpg"); 
+  background-image: url('PHOTOS/tom&jerry.jpg'); 
   background-size: 100%;
 
 }
