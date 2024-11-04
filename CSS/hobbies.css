@@ -243,12 +243,7 @@ body{
     background-size: cover;
     background-image: url();
 } 
-.first_background{
-  background-image: url("PHOTOS/background_hobby.jpg");
-  padding: 330px;
-  background-size: 100% 100%;
-  
-}
+
 .second_background{
   background-image: url("dark-black-background-design.pn");
   padding: 210px;
