@@ -244,9 +244,9 @@ body{
     background-image: url();
 } 
 .first_background{
-  background-image: url("background_hobby.jpg");
+  background-image: url("PHOTOS/background_hobby.jpg");
   padding: 330px;
-  background-size: 4000px;
+  background-size: 100% 100%;
   
 }
 .second_background{
