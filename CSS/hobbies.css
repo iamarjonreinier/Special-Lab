@@ -243,6 +243,17 @@ body{
     background-size: cover;
     background-image: url();
 } 
+	    .first_background{
+      background-image: url('PHOTOS/background-hobby.png');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      font-family: Courier (sans-serif);
+      text-shadow: 2px 2px 5px rgba(0, 0, 0, 15);
+      padding: 330px;
+  
+  
+}
 
 .second_background{
   background-image: url("dark-black-background-design.pn");
