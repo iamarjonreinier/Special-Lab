@@ -7,6 +7,224 @@
    <link rel="stylesheet" type="text/css" href="CSS/w3.css">
   <script src="JS/mainscript.js" defer></script>
  <style>
+  .card {
+  position: relative;
+  width: 220px;
+  height: 320px;
+  background-image: url('PHOTOS/cartoon_hover.jpg');
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.card::before,
+.card::after {
+  position: absolute;
+  content: "";
+  width: 35%;
+  height: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: skyblue;
+  transition: all 0.5s;
+}
+
+.card::before {
+  top: 0;
+  right: 0;
+  border-radius: 0 15px 0 100%;
+}
+
+.card::after {
+  bottom: 0;
+  left: 0;
+  border-radius: 0 100%  0 15px;
+}
+
+.card:hover::before,
+.card:hover:after {
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  transition: all 0.5s;
+}
+
+.card:hover:after {
+   background-image: url('ben10.jpg'); 
+  background-size: 100%;
+}
+.card1 {
+  position: relative;
+  width: 220px;
+  height: 320px;
+  background-image: url('PHOTOS/cartoon_hover.jpg');
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.card1::before,
+.card1::after {
+  position: absolute;
+  content: "";
+  width: 35%;
+  height: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+  font-weight: bold;
+  background-color:  lightskyblue;
+  transition: all 0.5s;
+}
+
+.card1::before {
+  top: 0;
+  right: 0;
+  border-radius: 0 15px 0 100%;
+}
+
+.card1::after {
+  bottom: 0;
+  left: 0;
+  border-radius: 0 100%  0 15px;
+}
+
+.card1:hover::before,
+.card1:hover:after {
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  transition: all 0.5s;
+}
+
+.card1:hover:after {
+  background-image: url('PHOTOS/PhineasNFerbPoster.jpg'); 
+  background-size: 100%;
+}
+.card2 {
+  position: relative;
+  width: 220px;
+  height: 320px;
+  background-image: url('PHOTOS/cartoon_hover.jpg');
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.card2::before,
+.card2::after {
+  position: absolute;
+  content: "";
+  width: 35%;
+  height: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: lightskyblue;
+  transition: all 0.5s;
+}
+
+.card2::before {
+  top: 0;
+  right: 0;
+  border-radius: 0 15px 0 100%;
+}
+
+.card2::after {
+  bottom: 0;
+  left: 0;
+  border-radius: 0 100%  0 15px;
+}
+
+.card2:hover::before,
+.card2:hover:after {
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  transition: all 0.5s;
+}
+
+.card2:hover:after {
+    background-image: url('PHOTOS/SpongeBob_SquarePants.jpg'); 
+  background-size: 100%;
+
+}
+.card3 {
+  position: relative;
+  width: 220px;
+  height: 320px;
+ background-image: url('PHOTOS/cartoon_hover.jpg');
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.card3::before,
+.card3::after {
+  position: absolute;
+  content: "";
+  width: 30%;
+  height: 20%;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: lightskyblue;
+  transition: all 0.5s;
+}
+
+.card3::before {
+  top: 0;
+  right: 0;
+  border-radius: 0 15px 0 100%;
+}
+
+.card3::after {
+  bottom: 0;
+  left: 0;
+  border-radius: 0 100%  0 15px;
+}
+
+.card3:hover::before,
+.card3:hover:after {
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  transition: all 0.5s;
+}
+
+.card3:hover:after {
+  background-image: url('PHOTOS/tom&jerry.jpg'); 
+  background-size: 100%;
+
+}
+
+
 .first_background{
       background-image: url('PHOTOS/Black_and_Teal_Modern_Hackathon_Banner_Landscape.webp');
       background-size: cover;
@@ -41,13 +259,13 @@
 
 </head>
 <body>
-<header>
+  <header>
 <div>
-    <div class="head " style="border: solid; border-color: skyblue; border-width: 100%;width: 100% 100%;"> 
+    <div class="head " style="border: solid; border-color: skyblue; border-width: 2px;"> 
     <br>
   <nav>
       <ul class="zoom-effect">
-           <li><a href="index.html">Home</a></li>
+             <li><a href="index.html">Home</a></li>
             <li><a href="hobby.html">hobbies</a></li>
             <li><a href="blog.html">Gallery</a></li>
             <li><a href="contact.html">Contact</a></li>
@@ -67,15 +285,21 @@
     </div>
 </div>
 </div>
-<br><br><br><br>
-<div class="first_background">  
 <br>
+<br>
+<br>
+<br><br>
+<br>
+<div class="first_background">  
+<br><br><br><br>
     <div class="drew">
-    <legend class="w3-text-blue" style="margin-left:180px; margin-top:-407.5px;"> DREW AND <span class="friend"> FRIENDS </span> </legend>
+    <legend class="w3-text-blue" style="margin-left:300px;"> DREW AND <span class="friend"> FRIENDS </span> </legend>
       </div>
       <div>
     <div class="text">
       <br/><br/><br/><br/>
+ <div>
+ <div>
       <div class="fade-in-up" style="padding-left: 50px">
         <p style="font-size: 70px; line-height: 1.2; margin-bottom: 20px;">Hi!<br>
         <b><span style="font-size: 50px;" id="typing-text" class="typing-effect w3-text-cyan"></span></b><br>
