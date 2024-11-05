@@ -738,6 +738,10 @@ textarea {
   .second_background {
       padding: 10% 5%;
   }
+ .thirdbackground{
+  padding: 10% 5%;
+ }
+
   .card {
       width: 150px;
       height: 250px;
@@ -747,7 +751,7 @@ textarea {
       height: 250px;
   }
   .drew {
-      margin-top: -200px;
+      margin-top: 100px;
   }
 }
 
@@ -758,6 +762,9 @@ textarea {
   .second_background {
       padding: 5% 2%;
   }
+  .thirdbackground{
+    padding: 10% 2%;
+   }
   .card {
       width: 100px;
       height: 150px;
