@@ -629,63 +629,7 @@ body {
 .fade-in-visible {
   opacity: 1; /* Fully visible */
 }
-.tablink {
-  color: darkgray;
-  float: left;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  margin-right: 5px;
-  padding: 5px 5px;
-  font-size: 15px;
-  border: none;
-  border-radius: 15px;
-  background-color: transparent;
-}
 
-.tablink:hover {
-  color: white;
-  background-color: cyan;
-}
-.tabcontent {
-  color: white;
-  display: none;
-  padding: 80px 20px;
-  height: 100%;
-  margin-top: -1px;
-  margin-left: -20px
-}
-.tech, .tools {
-  border: solid 1px cyan;
-  width: 150px;
-  height: 50px;
-}
-.inline {
-  display: inline-block;
-  vertical-align: top
-}
-.inline2 {
-  display: inline-block;
-  vertical-align: top
-}
-.contact {
-  border: solid 1px cyan;
-  border-radius: 10px;
-  width: 800px;
-  height: 500px;
-  margin: 0 auto;
-  background-color: #00060c;
-}
-.contactInput {
-  border: solid cyan 1px;
-  border-radius: 50px;
-  background-color: transparent;
-  color: white;
-  width: 350px;
-  height: 40px;
-  margin: 10px 0px;
-  padding: 10px;
-}
 textarea {
   border: solid cyan 1px;
   border-radius: 50px;
@@ -697,86 +641,7 @@ textarea {
   resize: none;
   color: white;
 }
-.long {
-  text-align: justify; 
-  padding: 10px 50px;
-}
 .prj {
   width: 700px; 
   height: 450px;
-}
-.tab {
-  margin-left: 150px; 
-  margin-right: 150px;
-}
-.part1contact {
-  padding-left: 25px; 
-  padding-top: 20px
-}
-.form {
-  padding-left: 25px; 
-  padding-top: 30px
-}
-.inline-block {
-  display: inline-block; 
-  width: 45%; 
-}
-.cimage1 {
-  width: 25px; 
-  margin-top: 15px; 
-  margin-left: 25px;
-}
-.cimage2 {
-  width: 30px; 
-  margin-top: 15px; 
-  margin-left: 20px;
-}
-@media only screen and (max-width: 768px) {
-  .first_background {
-      padding: 10% 5%;
-  }
-  .second_background {
-      padding: 10% 5%;
-  }
- .thirdbackground{
-  padding: 10% 5%;
- }
-
-  .card {
-      width: 150px;
-      height: 250px;
-  }
-  .card1, .card2, .card3 {
-      width: 150px;
-      height: 250px;
-  }
-  .drew {
-      margin-top: 100px;
-  }
-}
-
-@media only screen and (max-width: 480px) {
-  .first_background {
-      padding: 5% 2%;
-  }
-  .second_background {
-      padding: 5% 2%;
-  }
-  .thirdbackground{
-    padding: 10% 2%;
-   }
-  .card {
-      width: 100px;
-      height: 150px;
-  }
-  .card1, .card2, .card3 {
-      width: 100px;
-      height: 150px;
-  }
-  .drew {
-      margin-top: -150px;
-  }
-  .text {
-      font-size: 14px;
-  }
 }
