@@ -854,6 +854,7 @@ media (max-width: 1034px) {
   	 margin-top: 107.5px;
   	}
   	.thirdbackground{
+      width:100px;
   	 padding: 400px;
   	 margin-top: 150px;
   	 margin-left: 10px;
