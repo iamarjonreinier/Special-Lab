@@ -597,44 +597,7 @@ header, .font1 {
   .first_background{
   width: 1500px;
  }
-  	.drew {
-  	 margin-right: 400px;
-  	 margin-top: 107.5px;
-  	}
-  	.thirdbackground{
-  	 padding: 400px;
-  	 margin-top: 150px;
-  	 margin-left: 400px;
-  	}
- .footer{
-  width: 1500px;
-  
- }
- .head{
-  width: 1550px;
- }
- nav{
-  text-align: center;
- }
- .h1{
-  font-size:9px;
-  margin-top:-140px; 
-  margin-right:20px;
-  font-family:cursive;
-  text-align:center;
- }
-
-  .h3{
-  font-size:9px;
-  margin-right:-30px;
-  font-family:cursive;
-  text-align:center;
- }
-  .background-contact{
-   width: 1100px;
-   height: 1900px;
-   padding: 1100px;
-  }
+ 
 }
 @media (min-width: 722px) {
   .first_background{
