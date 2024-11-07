@@ -653,19 +653,28 @@ media (max-width: 1034px) {
 	 margin-left:180px;
 	 margin-top:-307.5px;
 	}
+  .first_background{
+    width: 1500px;
+   }
+    .second_background {
+     width: 1500px;
+  	}   
 
 }
 @media (max-width: 1191px) {
- 	.drew {
- 	 margin-left: 180px;
- 	 margin-top: -407.5px;
- 	}
+ 	
 	.search {
 		display: none;
 	}
  .head {
 	  width: 1500px;
 	 }
+   .first_background{
+    width: 1500px;
+   }
+    .second_background {
+     width: 1500px;
+  	}   
 	.inline {
 		margin-bottom: 20px;
 	}
