@@ -847,7 +847,7 @@ media (max-width: 1034px) {
       height:70%;
       font-family: Courier (sans-serif);
       text-shadow: 2px 2px 5px rgba(0, 0, 0, 15);
-       padding: 21% 21.7%;
+       padding: 21% 21.7%; 
   }
   	.drew {
   	 margin-right: 400px;
@@ -856,7 +856,7 @@ media (max-width: 1034px) {
   	.thirdbackground{
   	 padding: 400px;
   	 margin-top: 150px;
-  	 margin-left: 100px;
+  	 margin-left: 10px;
   	}
  .footer{
   width: 1500px;
