@@ -655,9 +655,11 @@ media (max-width: 1034px) {
 	}
   .first_background{
     width: 100%;
+    background-size: 100%;
    }
     .second_background {
-     width: 100%x;
+     width: 100%;
+     background-size: 100%;
   	}   
 
 }
@@ -668,9 +670,11 @@ media (max-width: 1034px) {
 	}
  .head {
 	  width: 100%;
+    background-size: 100%;
 	 }
    .first_background{
     width: 100%;
+    background-size: 100%;
    }
     .second_background {
      width: 100%;
@@ -699,7 +703,7 @@ media (max-width: 1034px) {
   	 margin-left: 100px;
   	}
  .footer{
-  width: 5;
+  width: 1500px;
   
  }
  .head{
