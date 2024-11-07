@@ -684,9 +684,10 @@ textarea {
    font-family:cursive;
    text-align:center;
   }
-  .favorite {
-   
-  }
+    .favorite {
+  font-size: 12px;
+  margin-right: -100px;
+ }
   .background-contact{
    width: 1500px;
    height: 1900px;
