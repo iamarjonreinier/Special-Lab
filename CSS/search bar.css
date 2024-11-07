@@ -654,10 +654,10 @@ media (max-width: 1034px) {
 	 margin-top:-307.5px;
 	}
   .first_background{
-    width: 1700px;
+    width: 100%;
    }
     .second_background {
-     width: 1700px;
+     width: 100%x;
   	}   
 
 }
@@ -667,13 +667,13 @@ media (max-width: 1034px) {
 		display: none;
 	}
  .head {
-	  width: 1700px;
+	  width: 100%;
 	 }
    .first_background{
-    width: 1700px;
+    width: 100%;
    }
     .second_background {
-     width: 1700px;
+     width: 100%;
   	}   
 	.inline {
 		margin-bottom: 20px;
@@ -683,10 +683,10 @@ media (max-width: 1034px) {
 }
 @media (max-width: 875px) {
   .first_background{
-  width: 5;
+  width: 80%;
  }
   .second_background {
-   width: 1050px;
+   width: 80%;
    height:900px;
   }
   	.drew {
