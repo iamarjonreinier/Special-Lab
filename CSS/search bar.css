@@ -692,9 +692,16 @@ textarea {
   text-transform: uppercase;
   letter-spacing: 2px;
 }
+}
+}
 @media (max-width: 875px) {
 	.drew{
-		
+
+		text-decoration: underline;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      margin-top: 115px;  
+      margin-left: 225px; 
 	}
   .first_background{
     width: 1640px;
@@ -739,7 +746,7 @@ textarea {
       text-transform: uppercase;
       letter-spacing: 2px;
       margin-top: 115px;  
-      margin-left: 225px; 
+      margin-left: 232px; 
     }
     .font1 {
       font-family: Arial (sans-serif);
@@ -748,15 +755,6 @@ textarea {
   .footer{ 
    width: 1500px;
    
-  }
-  .thirdbackground{
-        
-    background-color: black;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height:500px;
-    background-size: 100% 100%;
-    font-family: Courier (sans-serif);
   }
 
   .head{
@@ -771,36 +769,10 @@ textarea {
     text-align: center;
     margin-left: 135px;
   }
-  .background-contact{
-    background-image: url("PHOTOS/contact.png");
-    padding: 410px;
-    height:1600px;
-    background-size: 1600px;
-    width: 1540px;
-          }
-          .fieldset{
-            margin-bottom: 100px;
-            padding: 80px;
-            color: skyblue;
-            border-width: 10px;
-            text-align: center;
-            margin-top: -50px;
-            border-radius: 54px;
-            margin-left: 100px;
-            width: 1150px;
-        
-        }
-        .thirdbackground{
-        
-          background-color: black;
-          background-size: cover;
-          background-repeat: no-repeat;
-          height:500px;
-          background-size: 100% 100%;
-          font-family: Courier (sans-serif);
-        }
+      
 
  }
+}
 
 
 
