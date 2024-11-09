@@ -727,8 +727,9 @@ textarea {
    text-align: center;
   }
   .font5{
-    font-size: 14px;
+    font-size: 24px;
     text-align: center;
+    margin-left: 85px;
   }
   .background-contact{
     background-image: url("PHOTOS/contact.png");
