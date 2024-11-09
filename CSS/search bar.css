@@ -692,6 +692,13 @@ textarea {
 	.drew{
 		
 	}
+  .first_background{
+    width: 1540px;
+   }
+   .footer{ 
+    width: 1500px;
+    
+   }
 
 }
 @media (min-width: 722px) {
@@ -702,8 +709,8 @@ textarea {
     width: 1540px;
    }
      .drew {
-      margin-top: 150px;  
-      margin-left: 180px; 
+      margin-top: 130px;  
+      margin-left: 190px; 
     }
   .footer{ 
    width: 1500px;
