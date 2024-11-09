@@ -693,7 +693,7 @@ textarea {
 		
 	}
   .first_background{
-    width: 1540px;
+    width: 1640px;
    }
    .footer{ 
     width: 1500px;
@@ -722,6 +722,10 @@ textarea {
   nav{
    text-align: center;
   }
+  .font5{
+    font-size: 14px;
+    text-align: center;
+  }
   .background-contact{
     background-image: url("PHOTOS/contact.png");
     padding: 410px;
@@ -730,6 +734,7 @@ textarea {
     width: 1540px;
           }
           .fieldset{
+            margin-bottom: 100px;
             padding: 80px;
             color: skyblue;
             border-width: 10px;
@@ -748,9 +753,7 @@ textarea {
 @media (max-width: 604px) {
 
 }
-@media (max-width: 480px){
 
-}
 @media (max-width: 480px){
  
 }
