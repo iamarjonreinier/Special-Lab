@@ -609,7 +609,9 @@ header, .font1 {
    }
 
 .drew{
-
+  text-decoration: underline;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 }
 @media (max-width: 1191px) {
@@ -628,7 +630,9 @@ header, .font1 {
    }
 
 .drew{
-  
+  text-decoration: underline;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 @media (max-width: 875px) {
 	
@@ -656,6 +660,9 @@ header, .font1 {
     width: 1540px;
    } 
    .drew {
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 2px;
     margin-top: 50px;  
     margin-left: 85px; 
   }
