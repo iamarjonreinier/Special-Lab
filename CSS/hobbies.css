@@ -609,9 +609,7 @@ header, .font1 {
    }
 
 .drew{
-  text-decoration: underline;
-  text-transform: uppercase;
-  letter-spacing: 2px;
+
 }
 }
 @media (max-width: 1191px) {
@@ -630,19 +628,17 @@ header, .font1 {
    }
 
 .drew{
-  text-decoration: underline;
-  text-transform: uppercase;
-  letter-spacing: 2px;
+  
 }
 @media (max-width: 875px) {
 	
-    .drew{
-      margin-top: 30px;  
-      margin-left: 65px; 
+    .drew {
+      margin-top: 50px;  
+      margin-left: 100px; 
     } 
   
 	.first_background{
-    width: 1600px;
+    width: 1540px;
    }
    .footer{ 
     width: 1500px;
@@ -660,9 +656,6 @@ header, .font1 {
     width: 1540px;
    } 
    .drew {
-    text-decoration: underline;
-    text-transform: uppercase;
-    letter-spacing: 2px;
     margin-top: 50px;  
     margin-left: 85px; 
   }
