@@ -652,27 +652,33 @@ textarea {
 	}
 	.container{width:49.99999%}
 	.first_background {
-		background-size: cover;
+		background-size: 1540px;
 	}
   .second_background {
-		background-size: cover;
+		background-size: 1540px;
 	}
-
+  .head{
+    width: 1500px;
+   }
 }
 .drew{
 
 }
 @media (max-width: 1191px) {
-		.search {
+  .search {
 		display: none;
 	}
 	.container{width:49.99999%}
 	.first_background {
-		background-size: cover;
+		background-size: 1540px;
 	}
   .second_background {
-		background-size: cover;
+		background-size: 1540px;
 	}
+  .head{
+    width: 1500px;
+   }
+
 .drew{
   
 }
