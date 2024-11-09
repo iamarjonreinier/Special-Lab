@@ -19,6 +19,7 @@ body{
   padding: 210px;
   background-size: 1520px;
 }
+
 h1{
   margin-inline: -350px;
 }
@@ -649,6 +650,12 @@ textarea {
   .second_background {
 		background-size: 1540px;
 	}
+  .background-contact{
+    background-image: url("PHOTOS/contact.png");
+    padding: 210px;
+    height:1600px;
+    background-size: 1600px;
+          }
   .head{
     width: 1680px;
    }
@@ -666,8 +673,14 @@ textarea {
 		background-size: 1540px;
 	}
   .second_background {
-		background-size: 100%;
+		background-size: 1540px;
 	}
+  .background-contact{
+    background-image: url("PHOTOS/contact.png");
+    padding: 210px;
+    height:1600px;
+    background-size: 1600px;
+          }
   .head{
     width: 1680px;
    }
@@ -688,7 +701,6 @@ textarea {
 		width: 400px;
 		height: 1000px;
 		margin: 0 auto;
-		background-color: #00060c;
 	}
 	.inline-block {
 		display: inline-block; /* Allow centering */
@@ -716,6 +728,12 @@ textarea {
   nav{
    text-align: center;
   }
+  .background-contact{
+    background-image: url("PHOTOS/contact.png");
+    padding: 210px;
+    height:1600px;
+    background-size: 1600px;
+          }
 
  }
 
