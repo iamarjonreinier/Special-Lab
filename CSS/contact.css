@@ -721,13 +721,6 @@ body{
 
   
   @media (min-width: 722px) {
-    .first_background{
-     width: 1540px;
-    }
-     .second_background {
-      width: 1540px;
-     }
-    
        .drew {
         text-decoration: underline;
         text-transform: uppercase;
@@ -755,7 +748,7 @@ body{
       padding: 410px;
       height:1600px;
       background-size: 1600px;
-      width: 1540px;
+      width: 1600px;
             }
             .fieldset{
               margin-bottom: 100px;
