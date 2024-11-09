@@ -666,34 +666,8 @@ textarea {
 
 }
 }
-@media (max-width: 1191px) {
-  .search {
-		display: none;
-	}
-	.container{width:49.99999%}
-	.first_background {
-		background-size: 1540px;
-	}
-  .second_background {
-		background-size: 1540px;
-	}
-  .background-contact{
-    background-image: url("PHOTOS/contact.png");
-    padding: 210px;
-    height:1600px;
-    background-size: 1600px;
-          }
-  .head{
-    width: 1680px;
-   }
 
-.drew{
-  text-decoration: underline;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-}
-}
-}
+
 @media (max-width: 875px) {
 	.drew{
 
@@ -772,6 +746,32 @@ textarea {
       
 
  }
+}
+@media (max-width: 1191px) {
+  .search {
+		display: none;
+	}
+	.container{width:49.99999%}
+	.first_background {
+		background-size: 1540px;
+	}
+  .second_background {
+		background-size: 1540px;
+	}
+  .background-contact{
+    background-image: url("PHOTOS/contact.png");
+    padding: 210px;
+    height:1600px;
+    background-size: 1600px;
+          }
+  .head{
+    width: 1680px;
+   }
+
+.drew{
+  text-decoration: underline;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
 
