@@ -594,42 +594,43 @@ header, .font1 {
 	height: 600px;
 }
 @media (max-width: 1034px) {
-	.search {
+	..search {
 		display: none;
 	}
-	.drew{
-	 margin-left:180px;
-	 margin-top:-307.5px;
+	.container{width:49.99999%}
+	.first_background {
+		background-size: 1540px;
 	}
-  .first_background{
-    width: 100%;
-    background-size: 100%;
+  .second_background {
+		background-size: 1540px;
+	}
+  .head{
+    width: 1500px;
    }
-    .second_background {
-     width: 100%;
-     background-size: 100%;
-  	}   
 
+.drew{
+
+}
 }
 @media (max-width: 1191px) {
  	
 	.search {
 		display: none;
 	}
- .head {
-	  width: 100%;
-    background-size: 100%;
-	 }
-   .first_background{
-    width: 100%;
-    background-size: 100%;
-   }
-    .second_background {
-     width: 100%;
-  	}   
-	.inline {
-		margin-bottom: 20px;
+	.container{width:49.99999%}
+	.first_background {
+		background-size: 1540px;
 	}
+  .second_background {
+		background-size: 1540px;
+	}
+  .head{
+    width: 1500px;
+   }
+
+.drew{
+
+}
 
 
 }
