@@ -624,7 +624,7 @@ header, .font1 {
 		background-size: 100%;
 	}
   .head{
-    width: 1640px;
+    width: 100%;
    }
 
 .drew{
@@ -635,10 +635,10 @@ header, .font1 {
 }
 @media (max-width: 875px) {
   .first_background{
-  width: 1540px%;
+  width: 1540px;
  }
   .second_background {
-   width: 1540px%;
+   width: 1540px;
    height:900px;
   }
   	.drew {
