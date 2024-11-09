@@ -594,26 +594,6 @@ header, .font1 {
 	height: 600px;
 }
 @media (max-width: 1034px) {
-	..search {
-		display: none;
-	}
-	.container{width:49.99999%}
-	.first_background {
-		background-size: 1540px;
-	}
-  .second_background {
-		background-size: 1540px;
-	}
-  .head{
-    width: 1500px;
-   }
-
-.drew{
-
-}
-}
-@media (max-width: 1191px) {
- 	
 	.search {
 		display: none;
 	}
@@ -625,11 +605,30 @@ header, .font1 {
 		background-size: 1540px;
 	}
   .head{
-    width: 1500px;
+    width: 100%;
    }
 
 .drew{
 
+}
+}
+@media (max-width: 1191px) {
+  .search {
+		display: none;
+	}
+	.container{width:49.99999%}
+	.first_background {
+		background-size: 1540px;
+	}
+  .second_background {
+		background-size: 100%;
+	}
+  .head{
+    width: 1640px;
+   }
+
+.drew{
+  
 }
 
 
