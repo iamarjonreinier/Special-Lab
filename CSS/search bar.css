@@ -691,6 +691,7 @@ textarea {
   text-decoration: underline;
   text-transform: uppercase;
   letter-spacing: 2px;
+ }
 }
 @media (max-width: 875px) {
 	.drew{
@@ -717,7 +718,6 @@ textarea {
     text-align: center;
    }
 
-}
 .thirdbackground{
   background-size: 1600px;     
   background-color: black;
@@ -727,7 +727,7 @@ textarea {
   background-size: 100% 100%;
   font-family: Courier (sans-serif);
 }
-
+}
 @media (min-width: 722px) {
   .first_background{
    width: 1540px;

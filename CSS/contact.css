@@ -692,6 +692,7 @@ body{
     text-transform: uppercase;
     letter-spacing: 2px;
   }
+}
   @media (max-width: 875px) {
       .drew{
           
@@ -742,7 +743,7 @@ body{
     }
     nav{
      text-align: center;
- 
+    }
     .background-contact{
       background-image: url("PHOTOS/contact.png");
       padding: 410px;
