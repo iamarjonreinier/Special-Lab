@@ -702,9 +702,10 @@ textarea {
     width: 1540px;
    }
      .drew {
-      
-     }
-  .footer{
+      margin-top: 50px;  
+      margin-left: 300px; 
+    }
+  .footer{ 
    width: 1500px;
    
   }
