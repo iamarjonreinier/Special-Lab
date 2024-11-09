@@ -852,8 +852,14 @@ textarea {
   }
  }
 
-@media (max-width: 604px) {
-
+@media (max-width: 1284px) {
+  .drew {
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 115px;  
+    margin-left: 200px; 
+  }
 }
 
 @media (max-width: 480px){
