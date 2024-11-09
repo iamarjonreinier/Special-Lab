@@ -642,7 +642,7 @@ textarea {
     text-decoration: underline;
     text-transform: uppercase;
     letter-spacing: 2px;
-    margin-top: 115px;  
+    margin-top: 175px;  
     margin-left: 210px; 
 		
 	}
@@ -821,13 +821,7 @@ textarea {
    .second_background {
     width: 1540px;
    }
-   .contact {
-    text-decoration: underline;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    margin-top: -120px;  
-    margin-left: 30px; 
-  }
+   
      .drew {
       text-decoration: underline;
       text-transform: uppercase;
@@ -864,7 +858,7 @@ textarea {
     text-decoration: underline;
     text-transform: uppercase;
     letter-spacing: 2px;
-    margin-top: 150px;  
+    margin-top: 250px;  
     margin-left: 200px; 
   } 
 }
