@@ -692,20 +692,7 @@ textarea {
 	.drew{
 		
 	}
-	.adjust {
-		
-	}
-	.contact {
-		border: solid 1px cyan;
-		border-radius: 10px;
-		width: 400px;
-		height: 1000px;
-		margin: 0 auto;
-	}
-	.inline-block {
-		display: inline-block; /* Allow centering */
-      	width: 80%; /* Set width as needed */
-	}
+
 }
 @media (min-width: 722px) {
   .first_background{
@@ -743,7 +730,7 @@ textarea {
             margin-top: -50px;
             border-radius: 54px;
             margin-left: 100px;
-            width: 800px;
+            width: 1400px;
         
         }
 
