@@ -633,12 +633,12 @@ header, .font1 {
 @media (max-width: 875px) {
 	
     .drew{
-      margin-top: 50px;  
-      margin-left: 85px; 
+      margin-top: 30px;  
+      margin-left: 65px; 
     } 
   
 	.first_background{
-    width: 1540px;
+    width: 1600px;
    }
    .footer{ 
     width: 1500px;

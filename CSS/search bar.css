@@ -695,9 +695,18 @@ textarea {
   .first_background{
     width: 1640px;
    }
+   .second_background {
+    width: 1640px;
+   }
    .footer{ 
     width: 1500px;
     
+   }
+   .head{
+    width: 1640px;
+   }
+   nav{
+    text-align: center;
    }
 
 }
@@ -709,8 +718,8 @@ textarea {
     width: 1540px;
    }
    .drew:background-contact {
-    margin-top: -50px;  
-    margin-left: -100px; 
+    margin-top: -120px;  
+    margin-left: -150px; 
   }
      .drew {
       margin-top: 130px;  
