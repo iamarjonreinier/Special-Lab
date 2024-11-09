@@ -730,9 +730,10 @@ textarea {
   }
   .background-contact{
     background-image: url("PHOTOS/contact.png");
-    padding: 210px;
+    padding: 410px;
     height:1600px;
     background-size: 1600px;
+    width: 1540px;
           }
           .fieldset{
             padding: 80px;
