@@ -737,12 +737,12 @@ textarea {
           .fieldset{
             padding: 80px;
             color: skyblue;
-            border-width: 100px;
+            border-width: 10px;
             text-align: center;
             margin-top: -50px;
             border-radius: 54px;
             margin-left: 100px;
-            width: 400px;
+            width: 800px;
         
         }
 
