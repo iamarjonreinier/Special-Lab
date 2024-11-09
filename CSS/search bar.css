@@ -718,6 +718,16 @@ textarea {
    }
 
 }
+.thirdbackground{
+        
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:500px;
+  background-size: 100% 100%;
+  font-family: Courier (sans-serif);
+}
+
 @media (min-width: 722px) {
   .first_background{
    width: 1540px;
@@ -747,6 +757,16 @@ textarea {
    width: 1500px;
    
   }
+  .thirdbackground{
+        
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:500px;
+    background-size: 100% 100%;
+    font-family: Courier (sans-serif);
+  }
+
   .head{
    width: 1640px;
   }
@@ -776,6 +796,15 @@ textarea {
             margin-left: 100px;
             width: 1150px;
         
+        }
+        .thirdbackground{
+        
+          background-color: black;
+          background-size: cover;
+          background-repeat: no-repeat;
+          height:500px;
+          background-size: 100% 100%;
+          font-family: Courier (sans-serif);
         }
 
  }
