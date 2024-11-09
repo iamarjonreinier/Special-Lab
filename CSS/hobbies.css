@@ -658,8 +658,10 @@ header, .font1 {
     width: 1540px;
    }
      .drew {
-      margin-right: 200px;
-      margin-top: 87.5px;
+      .drew {
+        margin-top: 250px;  
+        margin-left: 150px; 
+      }
      }
   .footer{
    width: 1500px;
