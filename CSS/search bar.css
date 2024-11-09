@@ -20,6 +20,7 @@ body{
   background-size: 1520px;
 }
 .thirdbackground{
+  padding: 120px;
   background-size: cover;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -658,7 +659,7 @@ textarea {
 		background-size: 1540px;
 	}
   .head{
-    width: 100%;
+    width: 1540px;
    }
 
 .drew{
@@ -694,7 +695,7 @@ textarea {
 		background-size: 1540px;
 	}
   .head{
-    width: 100%;
+    width: 1540px;
    }
 
 .drew{
