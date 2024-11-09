@@ -691,7 +691,7 @@ textarea {
   text-decoration: underline;
   text-transform: uppercase;
   letter-spacing: 2px;
- }
+}
 }
 @media (max-width: 875px) {
 	.drew{
@@ -718,6 +718,7 @@ textarea {
     text-align: center;
    }
 
+}
 .thirdbackground{
   background-size: 1600px;     
   background-color: black;
@@ -727,7 +728,7 @@ textarea {
   background-size: 100% 100%;
   font-family: Courier (sans-serif);
 }
-}
+
 @media (min-width: 722px) {
   .first_background{
    width: 1540px;
@@ -735,19 +736,12 @@ textarea {
    .second_background {
     width: 1540px;
    }
-   .contact {
-    text-decoration: underline;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    margin-top: -250px;  
-    margin-left: -1130px; 
-  }
      .drew {
       text-decoration: underline;
       text-transform: uppercase;
       letter-spacing: 2px;
       margin-top: 130px;  
-      margin-left: 185px; 
+      margin-left: 180px; 
     }
     .font1 {
       font-family: Arial (sans-serif);

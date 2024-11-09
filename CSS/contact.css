@@ -718,16 +718,23 @@ body{
       text-align: center;
      }
   
-  }
+    }
 
   
   @media (min-width: 722px) {
+    .first_background{
+     width: 1540px;
+    }
+     .second_background {
+      width: 1540px;
+     }
+    
        .drew {
         text-decoration: underline;
         text-transform: uppercase;
         letter-spacing: 2px;
-        margin-top: ;  
-        margin-left: 50px; 
+        margin-top: 130px;  
+        margin-left: 185px; 
       }
       .font1 {
         font-family: Arial (sans-serif);
@@ -749,7 +756,7 @@ body{
       padding: 410px;
       height:1600px;
       background-size: 1600px;
-      width: 1600px;
+      width: 1540px;
             }
             .fieldset{
               margin-bottom: 100px;
