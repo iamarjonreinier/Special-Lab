@@ -848,11 +848,11 @@ header, .font1 {
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-top: -370px;  
-    margin-left: -225px; 
+    margin-left: -255px; 
 		
 	}
   .first_background{
-    width: 1100px;
+    width: 1180px;
    }
    .second_background {
     width: 140px;
@@ -862,7 +862,7 @@ header, .font1 {
     
    }
    .head{
-    width: 1090px;
+    width: 1120px;
    }
    .font1 {
     font-family: Arial (sans-serif);
