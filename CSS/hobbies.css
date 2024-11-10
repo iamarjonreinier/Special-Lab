@@ -593,6 +593,67 @@ header, .font1 {
 	width: 900px; 
 	height: 600px;
 }
+@media (max-width: 1512px) {
+  h1{
+	  margin-left:13px
+  }
+  .projectimages {
+	width: 600px; 
+	height: 350px; 
+	margin: 40px 60px 0px 130px; 
+	border: solid 2px white;
+	border-radius: 30px;
+}
+	.prj {
+	width: 900px; 
+	height: 800px;
+}
+	
+.drew{
+  text-decoration: underline;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+	margin-top:4px;
+	margin-left:110px;
+}
+	.first_background{
+    width: 1740px;
+   }
+   .second_background {
+    width: 1740px;
+   }
+	.footer{ 
+    width: 1740px;
+    
+   }
+   .head{
+    width: 1740px;
+   }
+	.card{
+	margin-top:87px;
+}
+	.thirdbackground{
+		width: 1740px;
+		
+	}
+	.container {
+  position: relative;
+  --size-button: 40px;
+  color: white;
+  margin-left: 1200px;
+  margin-top: -55px;
+}
+	.container .icon {
+  position: absolute;
+  width: var(--size-button);
+  height: var(--size-button);
+  top: -10px;
+  left: -2px;
+  padding: 8px;
+  pointer-events: none;
+  color: skyblue;
+}
+}
 @media (max-width: 1034px) {
 	.search {
 		display: none;
