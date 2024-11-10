@@ -617,23 +617,23 @@ header, .font1 {
 	margin-left:110px;
 }
 	.first_background{
-    width: 1740px;
+    width: 1540px;
    }
    .second_background {
-    width: 1740px;
+    width: 1440px;
    }
 	.footer{ 
-    width: 1740px;
+    width: 1540px;
     
    }
    .head{
-    width: 1740px;
+    width: 1540px;
    }
 	.card{
 	margin-top:87px;
 }
 	.thirdbackground{
-		width: 1740px;
+		width: 1440px;
 		
 	}
 	.container {
@@ -641,6 +641,67 @@ header, .font1 {
   --size-button: 40px;
   color: white;
   margin-left: 1200px;
+  margin-top: -55px;
+}
+	.container .icon {
+  position: absolute;
+  width: var(--size-button);
+  height: var(--size-button);
+  top: -10px;
+  left: -2px;
+  padding: 8px;
+  pointer-events: none;
+  color: skyblue;
+}
+}
+@media (max-width: 1412px) {
+  h1{
+	  margin-left:13px
+  }
+  .projectimages {
+	width: 600px; 
+	height: 350px; 
+	margin: 40px 60px 0px 130px; 
+	border: solid 2px white;
+	border-radius: 30px;
+}
+	.prj {
+	width: 900px; 
+	height: 800px;
+}
+	
+.drew{
+  text-decoration: underline;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+	margin-top:4px;
+	margin-left:-40px;
+}
+	.first_background{
+    width: 1440px;
+   }
+   .second_background {
+    width: 1440px;
+   }
+	.footer{ 
+    width: 1440px;
+    
+   }
+   .head{
+    width: 1440px;
+   }
+	.card{
+	margin-top:87px;
+}
+	.thirdbackground{
+		width: 1440px;
+		
+	}
+	.container {
+  position: relative;
+  --size-button: 40px;
+  color: white;
+  margin-left: 1100px;
   margin-top: -55px;
 }
 	.container .icon {
@@ -691,17 +752,18 @@ header, .font1 {
 .drew{
   
 }
-@media (max-width: 875px) {
+	
+@media (max-width: 1275px) {
 	
     .drew {
 
     } 
   
 	.first_background{
-    width: 1540px;
+    width: 1440px;
    }
    .footer{ 
-    width: 1500px;
+    width: 100px;
     
    }
    .head{
@@ -741,21 +803,21 @@ header, .font1 {
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-top: -370px;  
-    margin-left: 100px; 
+    margin-left: -85px; 
 		
 	}
   .first_background{
-    width: 1740px;
+    width: 1340px;
    }
    .second_background {
-    width: 1740px;
+    width: 1440px;
    }
    .footer{ 
-    width: 1740px;
+    width: 1340px;
     
    }
    .head{
-    width: 1740px;
+    width: 1340px;
    }
    .font1 {
     font-family: Arial (sans-serif);
@@ -771,13 +833,60 @@ header, .font1 {
 		margin-top:230px;
 	}
     .thirdbackground{
-      width: 1740px;
+      width: 1440px;
       
     }
    
 }
 
 }
+@media (max-width: 1274px) {
+  
+	
+	.drew{
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: -370px;  
+    margin-left: -225px; 
+		
+	}
+  .first_background{
+    width: 1030px;
+   }
+   .second_background {
+    width: 140px;
+   }
+   .footer{ 
+    width: 1030px;
+    
+   }
+   .head{
+    width: 1030px;
+   }
+   .font1 {
+    font-family: Arial (sans-serif);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+  }
+   nav{
+    text-align: center;
+   }
+.card{
+   
+  }
+	.favorite{
+		margin-top:230px;
+	}
+    .thirdbackground{
+      width: 1440px;
+      
+    }
+   
+}
+
+}
+
+
 @media (max-width: 604px) {
 
 }

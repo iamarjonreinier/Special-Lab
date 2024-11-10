@@ -644,21 +644,21 @@ textarea {
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-top:4px;
-    margin-left:110px;
+    margin-left:-50px;
   }
     .background-contact{
       background-image: url("PHOTOS/contact.png");
       padding: 410px;
       height:1600px;
       background-size: 1600px;
-      width: 1740px;
+      width: 1440px;
             }
     .footer{ 
-      width: 1740px;
+      width: 1440px;
       
      }
      .head{
-      width: 1740px;
+      width: 1440px;
      }
     .card{
     margin-top:87px;
@@ -671,7 +671,7 @@ textarea {
     position: relative;
     --size-button: 40px;
     color: white;
-    margin-left: 1200px;
+    margin-left: 1100px;
     margin-top: -55px;
   }
     .container .icon {
@@ -844,7 +844,7 @@ textarea {
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-top: -420px;  
-    margin-left: 110px;
+    margin-left: -90px;
 		
 	}
   .background-contact{
@@ -852,14 +852,14 @@ textarea {
     padding: 410px;
     height:1600px;
     background-size: 1600px;
-    width: 1740px;
+    width: 1340px;
           }
    .footer{ 
-    width: 1740px;
+    width: 1340px;
     
    }
    .head{
-    width: 1740px;
+    width: 1340px;
    }
    .font1 {
     font-family: Arial (sans-serif);
@@ -888,7 +888,7 @@ textarea {
             margin-top: -50px;
             border-radius: 54px;
             margin-left: 100px;
-            width: 1450px;
+            width: 1080px;
         
         }
 	input{
@@ -912,3 +912,234 @@ textarea {
 	}
 
 }
+@media (max-width: 1274px) {
+  
+	
+	.drew{
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: -420px;  
+    margin-left: -340px;
+		
+	}
+  .background-contact{
+    background-image: url("PHOTOS/contact.png");
+    padding: 410px;
+    height:1600px;
+    background-size: 1600px;
+    width: 1040px;
+          }
+   .footer{ 
+    width: 1040px;
+    
+   }
+   .head{
+    width: 820px;
+   }
+   .font1 {
+    font-family: Arial (sans-serif);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+  }
+   nav{
+    text-align: center;
+   }
+.card{
+   
+  }
+	.favorite{
+		margin-top:230px;
+	}
+    .thirdbackground{
+      width: 1740px;
+      
+    }
+   
+ .fieldset{
+            margin-bottom: 100px;
+            padding: 80px;
+            color: skyblue;
+            border-width: 10px;
+            text-align: center;
+            margin-top: -50px;
+            border-radius: 54px;
+            margin-left: 20px;
+            width: 0px;
+        
+        }
+	input{
+  background: whitecyan;
+  border: solid cyan 1px;
+  border-radius: 30px;
+
+}
+	p{
+		font-size:30px;
+		color:white
+	}
+.font1 {
+  font-family: Arial (sans-serif);
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+  font-size: 24px;
+
+}
+	form{
+		font-size:20px;
+	}
+
+}
+
+	@media (max-width: 1276px) {
+  
+	
+	.drew{
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: -420px;  
+    margin-left: -250px;
+		
+	}
+  .background-contact{
+    background-image: url("PHOTOS/contact.png");
+    padding: 410px;
+    height:1600px;
+    background-size: 1600px;
+    width: 1040px;
+          }
+   .footer{ 
+    width: 1040px;
+    
+   }
+   .head{
+    width: 1040px;
+   }
+   .font1 {
+    font-family: Arial (sans-serif);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+  }
+   nav{
+    text-align: center;
+   }
+.card{
+   
+  }
+	.favorite{
+		margin-top:230px;
+	}
+    .thirdbackground{
+      width: 1740px;
+      
+    }
+   
+ .fieldset{
+            margin-bottom: 100px;
+            padding: 80px;
+            color: skyblue;
+            border-width: 10px;
+            text-align: center;
+            margin-top: -50px;
+            border-radius: 54px;
+            margin-left: 20px;
+            width: 880px;
+        
+        }
+	input{
+  background: whitecyan;
+  border: solid cyan 1px;
+  border-radius: 30px;
+
+}
+	p{
+		font-size:30px;
+		color:white
+	}
+.font1 {
+  font-family: Arial (sans-serif);
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+  font-size: 24px;
+
+}
+	form{
+		font-size:20px;
+	}
+
+}
+@media (max-width: 1272px) {
+  
+	
+	.drew{
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: -420px;  
+    margin-left: -310px;
+		
+	}
+  .background-contact{
+    background-image: url("PHOTOS/contact.png");
+    padding: 410px;
+    height:1600px;
+    background-size: 1600px;
+    width: 1040px;
+          }
+   .footer{ 
+    width: 1040px;
+    
+   }
+   .head{
+    width: 900px;
+   }
+   .font1 {
+    font-family: Arial (sans-serif);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+  }
+   nav{
+    text-align: center;
+   }
+.card{
+   
+  }
+	.favorite{
+		margin-top:230px;
+	}
+    .thirdbackground{
+      width: 1740px;
+      
+    }
+   
+ .fieldset{
+            margin-bottom: 100px;
+            padding: 80px;
+            color: skyblue;
+            border-width: 10px;
+            text-align: center;
+            margin-top: -50px;
+            border-radius: 54px;
+            margin-left: 50px;
+            width: 90px;
+        
+        }
+	input{
+  background: whitecyan;
+  border: solid cyan 1px;
+  border-radius: 30px;
+
+}
+	p{
+		font-size:30px;
+		color:white
+	}
+.font1 {
+  font-family: Arial (sans-serif);
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+  font-size: 24px;
+
+}
+	form{
+		font-size:20px;
+	}
+
+}
+
+
