@@ -836,7 +836,82 @@ textarea {
 
  }
 
+ @media (max-width: 1284px) {
+  
+	
+	.drew{
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: -345px;  
+    margin-left: 100px; 
+		
+	}
+  .background-contact{
+    background-image: url("PHOTOS/contact.png");
+    padding: 410px;
+    height:1600px;
+    background-size: 1600px;
+    width: 1740px;
+          }
+   .footer{ 
+    width: 1740px;
+    
+   }
+   .head{
+    width: 1740px;
+   }
+   .font1 {
+    font-family: Arial (sans-serif);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+  }
+   nav{
+    text-align: center;
+   }
+.card{
+   
+  }
+	.favorite{
+		margin-top:230px;
+	}
+    .thirdbackground{
+      width: 1740px;
+      
+    }
+   
+ .fieldset{
+            margin-bottom: 100px;
+            padding: 80px;
+            color: skyblue;
+            border-width: 10px;
+            text-align: center;
+            margin-top: -50px;
+            border-radius: 54px;
+            margin-left: 100px;
+            width: 1450px;
+        
+        }
+	input{
+  background: whitecyan;
+  border: solid cyan 1px;
+  border-radius: 30px;
 
+}
+	p{
+		font-size:30px;
+		color:white
+	}
+.font1 {
+  font-family: Arial (sans-serif);
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+  font-size: 24px;
+
+}
+	form{
+		font-size:20px;
+	}
+
+}
 
 @media (max-width: 604px) {
 

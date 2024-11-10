@@ -729,11 +729,53 @@ header, .font1 {
   }
   nav{
    text-align: center;
-  }
-
+  
  }
 
-
+}
+@media (max-width: 1284px) {
+  
+	
+	.drew{
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: -345px;  
+    margin-left: 100px; 
+		
+	}
+  .first_background{
+    width: 1740px;
+   }
+   .second_background {
+    width: 1740px;
+   }
+   .footer{ 
+    width: 1740px;
+    
+   }
+   .head{
+    width: 1740px;
+   }
+   .font1 {
+    font-family: Arial (sans-serif);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+  }
+   nav{
+    text-align: center;
+   }
+.card{
+   
+  }
+	.favorite{
+		margin-top:230px;
+	}
+    .thirdbackground{
+      width: 1740px;
+      
+    }
+   
+}
 
 }
 @media (max-width: 604px) {
