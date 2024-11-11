@@ -1073,7 +1073,7 @@ textarea {
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-top: -420px;  
-    margin-left: -310px;
+    margin-left: -240px;
 		
 	}
   .background-contact{
@@ -1116,8 +1116,8 @@ textarea {
             text-align: center;
             margin-top: -50px;
             border-radius: 54px;
-            margin-left: 50px;
-            width: 90px;
+            margin-left: 90px;
+            width: 790px;
         
         }
 	input{
@@ -1141,5 +1141,3 @@ textarea {
 	}
 
 }
-
-
