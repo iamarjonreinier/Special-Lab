@@ -13,9 +13,9 @@ body {
 .card {
  position: absolute;
  top: 50%;
- left: 80%;
+ left: 40%;
  transform: translate(-50%, -50%);
- width: 100%;
+ width: 50%;
  max-width: 500px;
  background: rgba(255, 255, 255, 0.85);
  border: 1px solid #ddd;
